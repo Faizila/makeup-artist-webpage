@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/makeup-artist-webpage/static/css/main.691ffcfb.chunk.css",
-    "main.js": "/makeup-artist-webpage/static/js/main.16312876.chunk.js",
-    "main.js.map": "/makeup-artist-webpage/static/js/main.16312876.chunk.js.map",
-    "runtime-main.js": "/makeup-artist-webpage/static/js/runtime-main.a8add7b4.js",
-    "runtime-main.js.map": "/makeup-artist-webpage/static/js/runtime-main.a8add7b4.js.map",
+    "main.css": "/makeup-artist-webpage/static/css/main.66a2ada3.chunk.css",
+    "main.js": "/makeup-artist-webpage/static/js/main.85f426b3.chunk.js",
+    "main.js.map": "/makeup-artist-webpage/static/js/main.85f426b3.chunk.js.map",
+    "runtime-main.js": "/makeup-artist-webpage/static/js/runtime-main.45f3d84d.js",
+    "runtime-main.js.map": "/makeup-artist-webpage/static/js/runtime-main.45f3d84d.js.map",
     "static/js/2.eb448a1b.chunk.js": "/makeup-artist-webpage/static/js/2.eb448a1b.chunk.js",
     "static/js/2.eb448a1b.chunk.js.map": "/makeup-artist-webpage/static/js/2.eb448a1b.chunk.js.map",
-    "static/js/3.d922aa5b.chunk.js": "/makeup-artist-webpage/static/js/3.d922aa5b.chunk.js",
-    "static/js/3.d922aa5b.chunk.js.map": "/makeup-artist-webpage/static/js/3.d922aa5b.chunk.js.map",
+    "static/js/3.673addfb.chunk.js": "/makeup-artist-webpage/static/js/3.673addfb.chunk.js",
+    "static/js/3.673addfb.chunk.js.map": "/makeup-artist-webpage/static/js/3.673addfb.chunk.js.map",
     "index.html": "/makeup-artist-webpage/index.html",
-    "static/css/main.691ffcfb.chunk.css.map": "/makeup-artist-webpage/static/css/main.691ffcfb.chunk.css.map",
+    "static/css/main.66a2ada3.chunk.css.map": "/makeup-artist-webpage/static/css/main.66a2ada3.chunk.css.map",
     "static/js/2.eb448a1b.chunk.js.LICENSE.txt": "/makeup-artist-webpage/static/js/2.eb448a1b.chunk.js.LICENSE.txt",
+    "static/media/coming-soon.57e9ca08.png": "/makeup-artist-webpage/static/media/coming-soon.57e9ca08.png",
     "static/media/Profile.css": "/makeup-artist-webpage/static/media/hero.51cd4bf9.jpg",
     "static/media/nav.12b6d445.jpg": "/makeup-artist-webpage/static/media/nav.12b6d445.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a8add7b4.js",
+    "static/js/runtime-main.45f3d84d.js",
     "static/js/2.eb448a1b.chunk.js",
-    "static/css/main.691ffcfb.chunk.css",
-    "static/js/main.16312876.chunk.js"
+    "static/css/main.66a2ada3.chunk.css",
+    "static/js/main.85f426b3.chunk.js"
   ]
 }
