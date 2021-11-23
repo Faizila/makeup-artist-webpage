@@ -5,11 +5,11 @@ import soon from '../../Images/coming-soon.png';
 export default function Portfolio() {
   return (
     <div>
-<section id="portfolio" className="portfolio section-bg">
+<section id="gallery" className="portfolio section-bg">
   <div className="container">
 
     <div className="section-title">
-      <h2>Portfolio</h2>
+      <h2>Gallery</h2>
     </div>
 
     <div className="row portfolio-container">
