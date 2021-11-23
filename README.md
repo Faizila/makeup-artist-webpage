@@ -48,6 +48,7 @@ npm i react-typical
 
 # Screenshots
 
+![01](https://user-images.githubusercontent.com/78191579/143053634-7bc9fa8e-a556-4390-bdad-c7167fd23c03.JPG)
 
 # Questions
 
