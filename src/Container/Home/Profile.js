@@ -11,11 +11,13 @@ export default function Profile() {
       <Typical
 loop={Infinity}
 steps={[
-    "Certified Makeup/Hair Artist",
+    "Certified Makeup Artist",
     3000,
-    "Certified Mua in Bridal",
+    "Certified Hair Artist",
     3000,
-    "Atlanta Makeup Artist | Hair",
+    "Specialize in Bridal",
+    3000,
+    "Atlanta Makeup Artist",
     3000,  
    ]}
 />
