@@ -1,5 +1,6 @@
 import React from "react";
 import "./Contact.css";
+import pic from '../../Images/nav.jpg';
 
 export default function Contact() {
   return (
@@ -33,32 +34,7 @@ export default function Contact() {
       </div>
 
       <div className="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-        <form action="/action_page.php" method="POST" role="form" className="php-email-form">
-          <div className="row">
-            <div className="form-group col-md-6">
-              <label for="name">Your Name</label>
-              <input type="text" name="name" className="form-control" id="name" required/>
-            </div>
-            <div className="form-group col-md-6">
-              <label for="name">Your Email</label>
-              <input type="email" className="form-control" name="email" id="email" required/>
-            </div>
-          </div>
-          <div className="form-group">
-            <label for="name">Subject</label>
-            <input type="text" className="form-control" name="subject" id="subject" required/>
-          </div>
-          <div className="form-group">
-            <label for="name">Message</label>
-            <textarea className="form-control" name="message" rows="10" required></textarea>
-          </div>
-          <div className="my-3">
-            <div className="loading">Loading...</div>
-            <div className="error-message">Try Again!</div>
-            <div className="sent-message">Your message has been sent. Thank you!</div>
-          </div>
-          <div className="text-center"><button type="submit">Send Message</button></div>
-        </form>
+      <img src={pic} alt="Profile-Pic" width="80%"/>
       </div>
     </div>
   </div>
