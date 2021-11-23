@@ -10,6 +10,8 @@ export default function Portfolio() {
 
     <div className="section-title">
       <h2>Gallery</h2>
+      <a href="https://www.facebook.com/GlamByAmberBava" className="facebook" target="blank"><i className="bx bxl-facebook"></i></a>
+      <a href="https://www.instagram.com/glambyamberbava" className="instagram" target="blank"><i className="bx bxl-instagram"></i></a>
     </div>
 
     <div className="row portfolio-container">
