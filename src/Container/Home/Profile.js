@@ -7,7 +7,7 @@ export default function Profile() {
     <div>
         <section id="hero" className="d-flex flex-column justify-content-center align-items-center">
     <div className="hero-container" data-aos="fade-in">
-      <h1>Amber Bava</h1>
+      <h1>GlamByAmberBava</h1>
       <Typical
 loop={Infinity}
 steps={[

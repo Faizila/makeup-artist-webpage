@@ -10,10 +10,10 @@ function Nav() {
 
       <div className="profile">
         <img src={pic} alt="Profile-Pic" className="rounded-circle"/>
-        <h1 className="text-light"><a href="index.html">GlamByAmberBava</a></h1>
+        <h1 className="text-light"><a href="index.html">Amber Bava</a></h1>
         <div className="social-links mt-3 text-center">
-          <a href="https://www.facebook.com/GlamByAmberBava" className="github" target="blank"><i className="bx bxl-facebook"></i></a>
-          <a href="https://www.instagram.com/glambyamberbava/" className="linkedin" target="blank"><i className="bx bxl-instagram"></i></a>
+          <a href="https://www.facebook.com/GlamByAmberBava" className="facebook" target="blank"><i className="bx bxl-facebook"></i></a>
+          <a href="https://www.instagram.com/glambyamberbava/" className="instagram" target="blank"><i className="bx bxl-instagram"></i></a>
         </div>
       </div>
       
