@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/makeup-artist-webpage/static/css/main.66a2ada3.chunk.css",
-    "main.js": "/makeup-artist-webpage/static/js/main.85f426b3.chunk.js",
-    "main.js.map": "/makeup-artist-webpage/static/js/main.85f426b3.chunk.js.map",
+    "main.css": "/makeup-artist-webpage/static/css/main.aa891ddc.chunk.css",
+    "main.js": "/makeup-artist-webpage/static/js/main.a2f6e86d.chunk.js",
+    "main.js.map": "/makeup-artist-webpage/static/js/main.a2f6e86d.chunk.js.map",
     "runtime-main.js": "/makeup-artist-webpage/static/js/runtime-main.45f3d84d.js",
     "runtime-main.js.map": "/makeup-artist-webpage/static/js/runtime-main.45f3d84d.js.map",
     "static/js/2.eb448a1b.chunk.js": "/makeup-artist-webpage/static/js/2.eb448a1b.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.673addfb.chunk.js": "/makeup-artist-webpage/static/js/3.673addfb.chunk.js",
     "static/js/3.673addfb.chunk.js.map": "/makeup-artist-webpage/static/js/3.673addfb.chunk.js.map",
     "index.html": "/makeup-artist-webpage/index.html",
-    "static/css/main.66a2ada3.chunk.css.map": "/makeup-artist-webpage/static/css/main.66a2ada3.chunk.css.map",
+    "static/css/main.aa891ddc.chunk.css.map": "/makeup-artist-webpage/static/css/main.aa891ddc.chunk.css.map",
     "static/js/2.eb448a1b.chunk.js.LICENSE.txt": "/makeup-artist-webpage/static/js/2.eb448a1b.chunk.js.LICENSE.txt",
     "static/media/coming-soon.57e9ca08.png": "/makeup-artist-webpage/static/media/coming-soon.57e9ca08.png",
     "static/media/Profile.css": "/makeup-artist-webpage/static/media/hero.51cd4bf9.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.45f3d84d.js",
     "static/js/2.eb448a1b.chunk.js",
-    "static/css/main.66a2ada3.chunk.css",
-    "static/js/main.85f426b3.chunk.js"
+    "static/css/main.aa891ddc.chunk.css",
+    "static/js/main.a2f6e86d.chunk.js"
   ]
 }
