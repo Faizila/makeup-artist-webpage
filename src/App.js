@@ -1,9 +1,13 @@
 import './App.css';
+import Nav from './Container/Navbar/Navbar'
+import Profile from './Container/Home/Profile'
+
 
 function App() {
   return (
-    <div>
-              
+    <div id="main">
+      <Nav/>
+      <Profile/>
     </div>
   );
 }
