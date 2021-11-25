@@ -18,6 +18,7 @@ https://faizila.github.io/makeup-artist-webpage/
 
 # Description
 
+Developed a small business website for a makeup artist based in Atlanta, Georgia USA.
 
 # Technologies Used
 
