@@ -1,6 +1,12 @@
 import React from "react";
 import "./Portfolio.css";
 import soon from '../../Images/coming-soon.png';
+import img3 from '../../Images/img3.JPG';
+import img4 from '../../Images/img4.JPG';
+import img5 from '../../Images/img5.JPG';
+import img6 from '../../Images/img6.JPG';
+import img7 from '../../Images/img7.JPG';
+import img10 from '../../Images/img10.JPG';
 
 export default function Portfolio() {
   return (
@@ -18,79 +24,61 @@ export default function Portfolio() {
 
     <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src={soon} class="img-fluid" alt="logo" width="75%" height="75%"/>
+          <img src={img3} class="img-fluid" alt="logo" width="75%" height="75%"/>
           <div className="portfolio-links">
-            <a href={soon}><i className="bx bx-plus"></i></a>
-            <a href="#" target="blank"><i className="bx bx-link"></i></a>
+            <a href={img3}><i className="bx bx-plus"></i></a>
+            <a href="https://www.facebook.com/GlamByAmberBava" target="blank"><i className="bx bx-link"></i></a>
             </div>
-            <div>
-            <p>Coming Soon!</p>
-          </div>
         </div>
       </div>
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src={soon} class="img-fluid" alt="logo" width="75%" height="75%"/>
+          <img src={img4} class="img-fluid" alt="logo" width="75%" height="75%"/>
           <div className="portfolio-links">
-            <a href={soon}><i className="bx bx-plus"></i></a>
-            <a href="#" target="blank"><i className="bx bx-link"></i></a>
+            <a href={img4}><i className="bx bx-plus"></i></a>
+            <a href="https://www.instagram.com/glambyamberbava/" target="blank"><i className="bx bx-link"></i></a>
             </div>
-            <div>
-            <p>Coming Soon!</p>
-          </div>
         </div>
       </div>
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src={soon} class="img-fluid" alt="logo" width="75%" height="75%"/>
+          <img src={img5} class="img-fluid" alt="logo" width="75%" height="75%"/>
           <div className="portfolio-links">
-            <a href={soon}><i className="bx bx-plus"></i></a>
-            <a href="#" target="blank"><i className="bx bx-link"></i></a>
+            <a href={img5}><i className="bx bx-plus"></i></a>
+            <a href="https://www.facebook.com/GlamByAmberBava" target="blank"><i className="bx bx-link"></i></a>
             </div>
-            <div>
-            <p>Coming Soon!</p>
-          </div>
         </div>
       </div>
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src={soon} class="img-fluid" alt="logo" width="75%" height="75%"/>
+          <img src={img6} class="img-fluid" alt="logo" width="75%" height="75%"/>
           <div className="portfolio-links">
-            <a href={soon}><i className="bx bx-plus"></i></a>
-            <a href="#" target="blank"><i className="bx bx-link"></i></a>
+            <a href={img6}><i className="bx bx-plus"></i></a>
+            <a href="https://www.instagram.com/glambyamberbava/" target="blank"><i className="bx bx-link"></i></a>
             </div>
-            <div>
-            <p>Coming Soon!</p>
-          </div>
         </div>
       </div>
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src={soon} class="img-fluid" alt="logo" width="75%" height="75%"/>
+          <img src={img7} class="img-fluid" alt="logo" width="75%" height="75%"/>
           <div className="portfolio-links">
-            <a href={soon}><i className="bx bx-plus"></i></a>
-            <a href="#" target="blank"><i className="bx bx-link"></i></a>
+            <a href={img7}><i className="bx bx-plus"></i></a>
+            <a href="https://www.facebook.com/GlamByAmberBava" target="blank"><i className="bx bx-link"></i></a>
             </div>
-            <div>
-            <p>Coming Soon!</p>
-          </div>
-        </div>
+             </div>
       </div>
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src={soon} class="img-fluid" alt="logo" width="75%" height="75%"/>
+          <img src={img10} class="img-fluid" alt="logo" width="75%" height="75%"/>
           <div className="portfolio-links">
-            <a href={soon}><i className="bx bx-plus"></i></a>
-            <a href="#" target="blank"><i className="bx bx-link"></i></a>
+            <a href={img10}><i className="bx bx-plus"></i></a>
+            <a href="https://www.instagram.com/glambyamberbava/" target="blank"><i className="bx bx-link"></i></a>
             </div>
-            <div>
-            <p>Coming Soon!</p>
-          </div>
         </div>
       </div>
 
