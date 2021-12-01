@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/makeup-artist-webpage/static/css/main.aa891ddc.chunk.css",
-    "main.js": "/makeup-artist-webpage/static/js/main.a2f6e86d.chunk.js",
-    "main.js.map": "/makeup-artist-webpage/static/js/main.a2f6e86d.chunk.js.map",
+    "main.js": "/makeup-artist-webpage/static/js/main.edeab611.chunk.js",
+    "main.js.map": "/makeup-artist-webpage/static/js/main.edeab611.chunk.js.map",
     "runtime-main.js": "/makeup-artist-webpage/static/js/runtime-main.45f3d84d.js",
     "runtime-main.js.map": "/makeup-artist-webpage/static/js/runtime-main.45f3d84d.js.map",
     "static/js/2.eb448a1b.chunk.js": "/makeup-artist-webpage/static/js/2.eb448a1b.chunk.js",
@@ -14,12 +14,19 @@
     "static/js/2.eb448a1b.chunk.js.LICENSE.txt": "/makeup-artist-webpage/static/js/2.eb448a1b.chunk.js.LICENSE.txt",
     "static/media/coming-soon.57e9ca08.png": "/makeup-artist-webpage/static/media/coming-soon.57e9ca08.png",
     "static/media/Profile.css": "/makeup-artist-webpage/static/media/hero.51cd4bf9.jpg",
+    "static/media/img10.aec38a4a.JPG": "/makeup-artist-webpage/static/media/img10.aec38a4a.JPG",
+    "static/media/img3.1ebc11bb.JPG": "/makeup-artist-webpage/static/media/img3.1ebc11bb.JPG",
+    "static/media/img4.503080db.JPG": "/makeup-artist-webpage/static/media/img4.503080db.JPG",
+    "static/media/img5.84ecd1ab.JPG": "/makeup-artist-webpage/static/media/img5.84ecd1ab.JPG",
+    "static/media/img6.9f9106f5.JPG": "/makeup-artist-webpage/static/media/img6.9f9106f5.JPG",
+    "static/media/img7.ca7919dc.JPG": "/makeup-artist-webpage/static/media/img7.ca7919dc.JPG",
+    "static/media/img9.ab581d93.JPG": "/makeup-artist-webpage/static/media/img9.ab581d93.JPG",
     "static/media/nav.12b6d445.jpg": "/makeup-artist-webpage/static/media/nav.12b6d445.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.45f3d84d.js",
     "static/js/2.eb448a1b.chunk.js",
     "static/css/main.aa891ddc.chunk.css",
-    "static/js/main.a2f6e86d.chunk.js"
+    "static/js/main.edeab611.chunk.js"
   ]
 }
